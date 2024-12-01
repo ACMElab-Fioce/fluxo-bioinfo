@@ -1,6 +1,8 @@
-# 🔬 Fluxo Bioinformático
+# 🔬 Fluxo para análises de Bioinformática
+Autora: Yasmin Carvalho
 
-Este repositório descreve o **pipeline de bioinformática** utilizado para o processamento e análise de dados de **sequenciamento genômico**. O fluxo segue as etapas abaixo, desde a obtenção dos dados até a geração da sequência consenso.
+Este repositório descreve um fluxo padrão para análises de bioinformática de dados oriundos de **Sequenciamento de Nova Geração (NGS) por síntese de nucleotídeos e montagem por referência**.
+O fluxo segue as etapas abaixo, desde a obtenção dos dados até a geração da sequência consenso.
 
 ---
 
@@ -59,18 +61,6 @@ Este repositório descreve o **pipeline de bioinformática** utilizado para o pr
 - **Bcftools**: Ferramenta para chamada de variantes e geração de consenso.
 
 ---
-
-## 📥 Como Executar
-
-Para rodar o pipeline, basta seguir as instruções descritas no arquivo [installation_instructions.md](link_para_o_arquivo) ou consultar a documentação para detalhes sobre a configuração de ambiente e dependências.
-
----
-
-🔗 **Contribuições:**  
-Sinta-se à vontade para contribuir! Para mais informações, consulte o arquivo [CONTRIBUTING.md](link_para_o_arquivo).
-
-📜 **Licença:**  
-Este projeto está licenciado sob a [Licença MIT](link_para_o_arquivo).
 
 ---
 
